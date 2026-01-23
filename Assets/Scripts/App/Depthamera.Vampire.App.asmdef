@@ -1,0 +1,19 @@
+{
+    "name": "Depthamera.Vampire.App",
+    "rootNamespace": "Depthamera.Vampire.App",
+    "references": [
+        "GUID:3ad96b47bb23b234cb399da14cc05fb3",
+        "GUID:a1c906ac443688e4f849049f0fcee21b",
+        "GUID:3991b800999ad5144aaec58adbb049b0",
+        "GUID:621c6667307f9df4f8cddce0226b8608"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
