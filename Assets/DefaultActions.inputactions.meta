@@ -11,4 +11,4 @@ ScriptedImporter:
   generateWrapperCode: 1
   wrapperCodePath: Assets/Scripts/Service/DefaultActions.cs
   wrapperClassName: 
-  wrapperCodeNamespace: Depthamera.Vampire.Inputs
+  wrapperCodeNamespace: Depthamera.Vampire.Service
