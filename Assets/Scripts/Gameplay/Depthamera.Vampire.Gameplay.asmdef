@@ -2,7 +2,8 @@
     "name": "Depthamera.Vampire.Gameplay",
     "rootNamespace": "Depthamera.Vampire.Gameplay",
     "references": [
-        "GUID:3ad96b47bb23b234cb399da14cc05fb3"
+        "GUID:3ad96b47bb23b234cb399da14cc05fb3",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
